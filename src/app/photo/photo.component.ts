@@ -9,6 +9,8 @@ export class PhotoComponent implements OnInit {
 
   constructor() { }
 
+  photoData=[]
+
   ngOnInit(): void {
   }
 
